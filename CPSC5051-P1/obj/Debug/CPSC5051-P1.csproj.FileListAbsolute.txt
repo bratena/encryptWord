@@ -1,0 +1,6 @@
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\obj\Debug\CPSC5051-P1.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\obj\Debug\CPSC5051-P1.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\bin\Debug\CPSC5051-P1.exe
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\bin\Debug\CPSC5051-P1.pdb
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\obj\Debug\CPSC5051-P1.exe
+C:\Users\Aaron\source\repos\CPSC5051-P1\CPSC5051-P1\obj\Debug\CPSC5051-P1.pdb
